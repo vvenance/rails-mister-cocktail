@@ -32,6 +32,13 @@ gem 'jbuilder', '~> 2.5'
 gem 'faker'
 gem 'simple_form'
 gem 'figaro'
+gem 'cloudinary', '1.1.7'
+gem 'attachinary', github: 'assembler/attachinary'
+gem 'jquery-fileupload-rails'
+gem "font-awesome-sass"
+gem "autoprefixer-rails"
+gem 'bootstrap-sass'
+gem 'jquery-rails'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
